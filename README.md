@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer | React & Node.js</h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1593642634367-d91a135587b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMTEwMzh8MHwxfGFsbHwxfHx8fHx8fHwxNjcwNzY1NzE3&ixlib=rb-1.2.1&q=80&w=800" alt="coding" width="400" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjpG3Nx1FTir84c2CbZLoRFt1BlgFUfa1Fw&s" alt="coding" width="400" />
 </p>
 
 <p align="center">
