@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Yaqoob</h1>
-<h3 align="center">Web Developer | React & Node.js Enthusiast</h3>
+<h3 align="center">Web Developer | React & Node.js </h3>
 
 ---
 
