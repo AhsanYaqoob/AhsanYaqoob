@@ -1,30 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Ahsan Yaqoob</h1>
-<h3 align="center">Web Developer | React & Node.js</h3>
+<h3 align="center">Web Developer | React & Node.js Enthusiast</h3>
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjpG3Nx1FTir84c2CbZLoRFt1BlgFUfa1Fw&s" alt="coding" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsanyaqoob&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/ahsanyaqoob/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ahsan_malik_27" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" alt="Instagram" />
-  </a>
-</p>
-
-- 🌱 I’m currently exploring **React.js** and **Node.js**.
-- 💬 Ask me about **JavaScript**, **React**, and **Node.js**.
-- 📫 Reach out to me at **ahsanyaqoob2723@gmail.com**.
+---
 
 <h3 align="center">Technologies & Tools:</h3>
+
 <p align="center">
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
@@ -38,13 +18,59 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   </a>
-  <a href="https://www.css3.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="50" height="50"/>
+  </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="50" height="50"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
   </a>
 </p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahsanyaqoob/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ahsan_malik_27" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">About Me:</h3>
+
+- 🌱 I’m currently exploring **React.js** and **Node.js**.
+- 💬 Ask me about **JavaScript**, **React**, and **Node.js**.
+- 📫 Reach out to me at **ahsanyaqoob2723@gmail.com**.
+
+---
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
