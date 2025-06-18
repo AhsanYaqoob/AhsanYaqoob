@@ -77,16 +77,28 @@
 
 ---
 
+---
+
+---
+
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsanyaqoob&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  <a href="https://github.com/ahsanyaqoob">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahsanyaqoob&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanyaqoob&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/ahsanyaqoob">
+    <img src="https://streak-stats.demolab.com?user=ahsanyaqoob&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanyaqoob&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/ahsanyaqoob">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanyaqoob&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </p>
+
+
