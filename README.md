@@ -81,7 +81,9 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+
+
+
 
 <p align="center">
   <a href="https://github.com/ahsanyaqoob">
@@ -89,16 +91,13 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ahsanyaqoob">
-    <img src="https://streak-stats.demolab.com?user=ahsanyaqoob&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ahsanyaqoob">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanyaqoob&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
+
 
 
