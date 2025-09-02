@@ -77,12 +77,14 @@
 
 ---
 
----
+## 🏅 Certifications
+
+- **GitHub Professional Certificate**  
+  [View Certificate](https://tinyurl.com/y2vsy3sd)
 
 ---
 
-
-
+---
 
 
 <p align="center">
@@ -92,12 +94,9 @@
 </p>
 
 
-
 <p align="center">
   <a href="https://github.com/ahsanyaqoob">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanyaqoob&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
-
-
 
