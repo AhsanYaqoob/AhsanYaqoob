@@ -1,12 +1,36 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahsan%20Yaqoob&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20|%20Python%20|%20FastAPI%20|%20RAG%20+%20Agent%20Workflows&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=750&lines=AI+Engineer+%7C+Python+%7C+FastAPI;LangChain+%7C+LangGraph+%7C+RAG+Workflows;LLM-Powered+Application+Developer;Full+Stack+%7C+React.js+%7C+Next.js;Building+Intelligent+AI+Applications" alt="Typing Animation" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhsanYaqoob&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=80&text=AHSAN%20YAQOOB&fontSize=50&fontColor=58A6FF&animation=fadeIn&section=header" width="100%"/>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=30&lines=AI+Engineer+%7C+Python+%7C+FastAPI;LangChain+%7C+LangGraph+%7C+RAG+Workflows;LLM-Powered+Application+Developer;Building+Intelligent+AI+Systems;Voice+Agents+%7C+Tool+Calling+%7C+Prompt+Engineering" alt="Typing" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_Engineer-0d1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=databricks&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=58A6FF"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/ahsan-yaqoob-5685b120a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/AhsanYaqoob" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff"/></a>
+<a href="mailto:ahsanyaqoob0003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
+<a href="tel:+923027387710" target="_blank"><img src="https://img.shields.io/badge/+92_302_7387710-0d1117?style=flat-square&logo=whatsapp&logoColor=25D366"/></a>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=AhsanYaqoob&label=Profile+Views&color=58A6FF&style=flat-square" alt="Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/AhsanYaqoob?label=Followers&style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=58A6FF" alt="Followers"/>
+
+</div>
 
 ---
 
