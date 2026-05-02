@@ -40,7 +40,6 @@
   🤖 AI Engineer building <b>FastAPI services</b> and <b>LLM-powered applications</b><br>
   🧠 Experienced in <b>RAG-based workflows</b> and <b>agent-style tool integrations</b> using LangChain & LangGraph<br>
   🌐 Skilled in <b>API integrations</b>, <b>backend architecture</b>, and <b>end-to-end production deployment</b><br>
-  📫 Reach me at <b>ahsanyaqoob0003@gmail.com</b> | 📞 <b>+92 302 7387710</b>
 </p>
 
 ---
