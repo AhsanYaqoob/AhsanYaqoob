@@ -87,7 +87,7 @@
   <tr>
     <td>
       <h4>🏢 AI Developer — APE IT Solutions Ltd</h4>
-      <p><b>December 2024 – Present</b></p>
+      <p><b>December 2025 – Present</b></p>
       <ul>
         <li>Built <b>FastAPI LLM backend services</b> using Gemini/Groq APIs with tool calling and JSON outputs</li>
         <li>Developed <b>ElevenLabs voice and chat agents</b> with workflow routing, validation, and fallback handling</li>
@@ -98,7 +98,7 @@
   <tr>
     <td>
       <h4>🧪 QA Intern (Automation)</h4>
-      <p><b>September 2024 – December 2024</b></p>
+      <p><b>September 2025 – December 2025</b></p>
       <ul>
         <li>Created <b>automated UI tests using Playwright</b> for key user flows and regression coverage</li>
         <li>Designed test cases, executed test runs, and reported bugs with clear reproduction steps</li>
