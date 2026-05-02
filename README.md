@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ahsan Yaqoob</h1>
-<h3 align="center">AI Engineer | Python | FastAPI | RAG + Agent Workflows</h3>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahsan%20Yaqoob&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20|%20Python%20|%20FastAPI%20|%20RAG%20+%20Agent%20Workflows&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=750&lines=AI+Engineer+%7C+Python+%7C+FastAPI;LangChain+%7C+LangGraph+%7C+RAG+Workflows;LLM-Powered+Application+Developer;Full+Stack+%7C+React.js+%7C+Next.js;Building+Intelligent+AI+Applications" alt="Typing Animation" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhsanYaqoob&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
